@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift Badge"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="top languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jades01&layout=compact" alt="top languages"/>
   </div>
   <div id="frameworks">
     <p>Frameworks and Technologies</p>
