@@ -1,16 +1,16 @@
-## Hi there 👋
+```md
+> cd ~/Jade_Simien/
+> ls
+main    extra
 
-<!--
-**JadeS01/JadeS01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> cd main
+> cat profile.txt
+Model:       Full-Stack Developer
+Objective:   Bringing ideas into digital realities
+Skills:      JS/TS, Python, Rust, Swift
+Email:       jadecsimien@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> cd ../extra
+> cat hobbies.txt
+Hobbies:     Piano & Language Learning
+```
