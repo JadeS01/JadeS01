@@ -6,7 +6,7 @@ main    extra
 > cd main
 > cat profile.txt
 Model:       Full-Stack Developer
-Objective:   Bringing ideas into digital realities
+Objective:   Bringing ideas into digital reality
 Skills:      JS/TS, Python, Rust, Swift
 Email:       jadecsimien@gmail.com
 
